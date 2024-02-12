@@ -1,5 +1,3 @@
-Aquí tienes un código en Python para una aplicación de Streamlit que realiza conversiones según las categorías mencionadas:
-
 ```python
 import streamlit as st
 
