@@ -77,4 +77,3 @@ if categoria:
         valor = st.number_input(f"Ingrese el valor en {subcategoria.split(' a ')[0]}", value=0.0)
         resultado = conversiones[categoria][subcategoria](valor)
         st.write(f"El resultado de la conversión es: {resultado} {subcategoria.split(' a ')[1]}")
-```
